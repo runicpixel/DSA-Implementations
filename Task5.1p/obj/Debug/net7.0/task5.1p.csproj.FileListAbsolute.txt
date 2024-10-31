@@ -1,0 +1,15 @@
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.csproj.AssemblyReference.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.csproj.CoreCompileInputs.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\bin\Debug\net7.0\task5.1p.exe
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\bin\Debug\net7.0\task5.1p.deps.json
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\bin\Debug\net7.0\task5.1p.runtimeconfig.json
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\bin\Debug\net7.0\task5.1p.dll
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\bin\Debug\net7.0\task5.1p.pdb
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.dll
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\refint\task5.1p.dll
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.pdb
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\task5.1p.genruntimeconfig.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task5.1p\obj\Debug\net7.0\ref\task5.1p.dll
