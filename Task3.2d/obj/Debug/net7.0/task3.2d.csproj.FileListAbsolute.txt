@@ -1,0 +1,15 @@
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.csproj.AssemblyReference.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.csproj.CoreCompileInputs.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\bin\Debug\net7.0\task3.2d.exe
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\bin\Debug\net7.0\task3.2d.deps.json
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\bin\Debug\net7.0\task3.2d.runtimeconfig.json
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\bin\Debug\net7.0\task3.2d.dll
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\bin\Debug\net7.0\task3.2d.pdb
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.dll
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\refint\task3.2d.dll
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.pdb
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\task3.2d.genruntimeconfig.cache
+C:\Users\hardi\OneDrive\Desktop\All units\sit221\task3.2d\obj\Debug\net7.0\ref\task3.2d.dll
